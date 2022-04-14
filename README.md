@@ -32,7 +32,7 @@
 
 
 <h1 align="center">
-    <img src="./git/print.jgif"/>
+    <img src="./git/print.jpg"/>
 </h1>
 
 
