@@ -13,7 +13,7 @@
 
 ## 📝 Description
 
-> This was my first React Website, i've create this inspired by a layout from Behance.com. <br>
+> This was my first React Website, i've create this inspired by a layout from Behance.net <br>
 > Original Project in Behance - https://www.behance.net/gallery/133674957/Mars-Travel<br>
 > My purporse while developing this was to use as many react components and properties as possible.
 
