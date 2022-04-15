@@ -26,8 +26,7 @@
 
 > How to run: <br>
 > Open your terminal with this folder path and use npm install <br>
-> After downloading the dependencies files, use npm start to view the project.
-<br>
+> After downloading the dependencies files, use npm start to view the project.<br>
 > Since i'm using many React libraries, you might have some problem with the node files, if you do, download the original Node Modules files and
 > paste in the projects folder.<br>
 > Original Node Modules Backup: https://drive.google.com/drive/folders/1Dhdo-quUGYV8PSI49kbK0SSkXf98Dysb?usp=sharing
